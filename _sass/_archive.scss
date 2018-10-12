@@ -15,8 +15,11 @@
   }
 
   a {
-    color: inherit;
+    color: #52adc8;
     text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
   }
 }
 
