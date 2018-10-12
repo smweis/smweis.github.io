@@ -4,12 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my articles on [Google Scholar](https://osf.io/ea99d/)
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=HxSZ5_MAAAAJ&hl=en)
 
 
-<div style="padding-left:2em;text-indent:-2em;">
 <strong>Weisberg, S.M.</strong>, Newcombe, N.S., & Chatterjee, A. (submitted). Everyday taxi drivers: Do better navigators have larger hippocampi. <em>bioRxiv. </em> [Preprint](https://www.biorxiv.org/content/early/2018/09/29/431155) [Data and Pre-reg](https://osf.io/ea99d/)
-</div>
 
 
 <div style="padding-left:2em;text-indent:-2em;">
