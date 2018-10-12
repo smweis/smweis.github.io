@@ -30,30 +30,43 @@ Blacker, K.J., __Weisberg, S.M.__, Newcombe, N.S., & Courtney, S.M. (2017). Navi
 
 __Weisberg, S.M.__, Badgio, D., & Chatterjee, A. (2017). A CRISPR new world: Public attitudes towards innovations in genetic modification. _Frontiers in Public Health: Public Health Policy_. [Journal](https://dx.doi.org/10.3389/fpubh.2017.00117)  [PDF](http://smweis.github.io/files/Frontiers_WeisbergBadgioChatterjee.pdf)
 
+
 Atit, K., __Weisberg, S.M.__, Newcombe, N.S., & Shipley, T.F. (2016). Learning to interpret topographic maps: Understanding layered spatial information. _Cognitive Research: Principles & Implications_. [Journal](https://dx.doi.org/10.1186/s41235-016-0002-y)  [PDF](http://smweis.github.io/files/CRPI_WeisberG_2016.pdf)
 
-<span style="color:#000000;">Cromley, J.G., <strong>Weisberg, S.M.</strong>, Dai, T., Newcombe, N.S., Schunn, C.D., Massey, C., & Merlino, F.J. (2016). Improving middle school science learning using diagrammatic reasoning. <em>Science Education 100</em>(6), 1184-1213. <a href="https://dx.doi.org/10.1002/sce.21241">Journal</a></span>
 
-<span style="color:#000000;"><strong>Weisberg, S.M.</strong>, & Newcombe, N.S. (2016). How do (some) people make a cognitive map? Routes, places, and working memory. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition, 42</em>(5), 768-785<em>.</em> <a href="https://dx.doi.org/10.1037/xlm0000200">Journal</a></span>
+Cromley, J.G., __Weisberg, S.M.__, Dai, T., Newcombe, N.S., Schunn, C.D., Massey, C., & Merlino, F.J. (2016). Improving middle school science learning using diagrammatic reasoning. _Science Education_, 100 (6), 1184-1213. [Journal](https://dx.doi.org/10.1002/sce.21241)
 
-<span style="color:#000000;">Ngo, C., <strong>Weisberg, S.M.</strong>, Newcombe, N.S., & Olson, I.R. (2016). The relation between navigation strategy and associative memory: An individual differences approach. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition, 42</em>(4), 663-670<em>.</em> <a href="https://dx.doi.org/10.1037/xlm0000193">Journal</a> </span>
 
-<span style="color:#000000;">Holmes, C.A., Nardi, D.N., Newcombe, N.S., & <strong>Weisberg, S.M.</strong> (2015). Children's use of slope to guide navigation: Sex differences relate to spontaneous slope perception. <em>Spatial Cognition and Computation, 15</em>(3), 170-185. <a href="https://dx.doi.org/10.1080/13875868.2015.1015131">Journal</a></span>
+__Weisberg, S.M.__, & Newcombe, N.S. (2016). How do (some) people make a cognitive map? Routes, places, and working memory. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 42(5), 768-785.  [Journal](https://dx.doi.org/10.1037/xlm0000200)  [PDF](http://smweis.github.io/files/Weisberg_JEP_2016.pdf)
 
-<span style="color:#000000;"><strong>Weisberg, S.M. </strong>& Newcombe, N.S. (2014). A slippery directional slope: Individual differences in using slope as a directional cue. <em>Memory & Cognition, 42, </em>648-661. <a href="https://dx.doi.org/10.3758/s13421-013-0387-5">Journal</a></span>
 
-<span style="color:#000000;"><strong>Weisberg, S.M.</strong>, Nardi, D.N., Newcombe, N.S., & Shipley, T.F. (2014). Up by upwest: Is slope like north? <em>Quarterly Journal of Experimental Psychology. 67</em>(10), 1959-1976.</span> <a href="https://dx.doi.org/10.1080/17470218.2014.880122">Journal</a>
+Ngo, C., __Weisberg, S.M.__, Newcombe, N.S., & Olson, I.R. (2016). The relation between navigation strategy and associative memory: An individual differences approach. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 42(4), 663-670. [Journal](https://dx.doi.org/10.1037/xlm0000193).
 
-<span style="color:#000000;"><strong>Weisberg, S.M.</strong>, Schinazi, V.R., Newcombe, N.S., Shipley, T.F., & Epstein, R.A. (2014). Variations in cognitive maps: Understanding individual differences in navigation.<em> Journal of Experimental Psychology: Learning, Memory, and Cognition, 40</em>(3), 669-682<em>. </em><a href="https://dx.doi.org/10.1037/a0035261">Journal</a></span>
+
+Holmes, C.A., Nardi, D.N., Newcombe, N.S., & __Weisberg, S.M.__ (2015). Children's use of slope to guide navigation: Sex differences relate to spontaneous slope perception. _Spatial Cognition and Computation_, 15(3), 170-185. [Journal](https://dx.doi.org/10.1080/13875868.2015.1015131)
+
+
+__Weisberg, S.M.__, & Newcombe, N.S. (2014). A slippery directional slope: Individual differences in using slope as a directional cue. _Memory & Cognition_, 42, 648-661. [Journal](https://dx.doi.org/10.3758/s13421-013-0387-5) [PDF](http://smweis.github.io/files/M&C_Weisberg_2014.pdf)
+
+
+__Weisberg, S.M.__, Nardi, D.N., Newcombe, N.S., & Shipley, T.F. (2014). Up by upwest: Is slope like north? _Quarterly Journal of Experimental Psychology_, 67(10), 1959-1976. [Journal](https://dx.doi.org/10.1080/17470218.2014.880122)  [PDF](http://smweis.github.io/files/QJEP_Weisberg_2014.pdf)
+
+
+__Weisberg, S.M.__, Schinazi, V.R., Newcombe, N.S., Shipley, T.F., & Epstein, R.A. (2014). Variations in cognitive maps: Understanding individual differences in navigation. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 40(3), 669-682. [Journal](https://dx.doi.org/10.1037/a0035261)  [PDF](http://smweis.github.io/files/JEP_Weisberg_et_al_2014.pdf)
+
 
 ## Chapters, Proceedings, Commentaries, reports, etc.
 
-<span style="color:#000000;"><strong>Weisberg, S.M.</strong> & Newcombe, N.S. (2017). Embodied cognition and STEM learning: Overview of a topical collection in CR:PI. <em>Cognitive Research: Principles and Implications ,</em>2(38). <a href="https://dx.doi.org/10.1186/s41235-017-0071-6">Journal</a></span>
+__Weisberg, S.M.__ & Newcombe, N.S. (2017). Embodied cognition and STEM learning: Overview of a topical collection in CR:PI. _Cognitive Research: Principles and Implications_, 2(38). [Journal](https://dx.doi.org/10.1186/s41235-017-0071-6)
 
-<span style="color:#000000;"><strong>Weisberg, S.M.</strong>, Newcombe, N.S., Atit, K., Jacovina, M.E., Ormand, C.J., & Shipley, T.F. (2015). The lay of the land: Sensing and representing topography. <em>Baltic International Yearbook of Cognition, Logic and Communication</em>: Vol. 10. <a href="https://dx.doi.org/10.4148/1944-3676.1099">Journal</a></span>
 
-<span style="color:#000000;">Nardi, D.N., Holmes, C.A., Newcombe, N.S., & <strong>Weisberg, S.M.</strong> (2015). Sex differences and errors in the use of terrain slope for navigation. <em>Cognitive Processing</em>, <em>16</em>(1), 323-326. <a href="https://dx.doi.org/10.1007/s10339-015-0669-x">Journal</a></span>
+__Weisberg, S.M.__ Newcombe, N.S., Atit, K., Jacovina, M.E., Ormand, C.J., & Shipley, T.F. (2015). The lay of the land: Sensing and representing topography. _Baltic International Yearbook of Cognition, Logic and Communication_: Vol. 10. [Journal](https://dx.doi.org/10.4148/1944-3676.1099)
 
-<span style="color:#000000;"><strong>Weisberg, S.M.</strong>, & Newcombe, N.S. (2013). Are all types of vertical information created equal? <em>Behavioral and Brain Sciences</em>, 36, 568-569. <a href="https://dx.doi.org/10.1017/S0140525X13000599">Journal</a></span>
 
-<span style="color:#000000;"><strong>Weisberg, S.M. </strong>(2012). Embodied cognition approaches in integrated science, technology, engineering, and mathematics (iSTEM) education. Commissioned report for the National Academy of Engineering Committee on Integrated STEM Education. Published in <em>Toward Integrated STEM Education: Developing A Research Agenda </em>(2014).</span>
+Nardi, D.N., Holmes, C.A., Newcombe, N.S., & __Weisberg, S.M.__(2015). Sex differences and errors in the use of terrain slope for navigation. _Cognitive Processing_, 16(1), 323-326. [Journal](https://dx.doi.org/10.1007/s10339-015-0669-x)
+
+
+__Weisberg, S.M.__, & Newcombe, N.S. (2013). Are all types of vertical information created equal? _Behavioral and Brain Sciences_, 36, 568-569.  [Journal](https://dx.doi.org/10.1017/S0140525X13000599)  [PDF](http://smweis.github.io/files/BBS_Weisberg_Full_Article.pdf)
+
+
+__Weisberg, S.M.__(2012). Embodied cognition approaches in integrated science, technology, engineering, and mathematics (iSTEM) education. Commissioned report for the National Academy of Engineering Committee on Integrated STEM Education. Published in _Toward Integrated STEM Education: Developing A Research Agenda_ (2014).
