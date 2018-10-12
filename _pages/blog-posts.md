@@ -1,6 +1,7 @@
----
+  ---
+layout: archive
 title: "Blog Posts"
-permalink: /blog-posts/
+permalink: /year-archive/
 author_profile: true
 ---
 
