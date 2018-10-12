@@ -4,7 +4,7 @@ title: "Links"
 permalink: /links/
 author_profile: true
 ---
-##Interested in Virtual Silcton?
+## Interested in Virtual Silcton?
 
 Check out a [sample](http://spactial.ci.northwestern.edu/study/753798630).
 
@@ -13,7 +13,7 @@ To use this in your lab, see the documentation, links to the standalone files, a
 
 Or, send me an email (smweis [at] gmail [dot] com) or a tweet [@3chordwonder](https://twitter.com/3chordwonder)
 
-##Affiliations
+## Affiliations
 [Mind core at Penn](https://mindcore.sas.upenn.edu/associates/)
 
 [Research in Spatial Cognition](http://www.temple.edu/psychology/risc/index.htm)
