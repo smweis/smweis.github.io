@@ -13,11 +13,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <span style="color: #000000;"><strong>Weisberg, S.M.</strong>, Newcombe, N.S., & Chatterjee, A. (submitted). Everyday taxi drivers: Do better navigators have larger hippocampi. <em>bioRxiv. </em>[<a href="https://www.biorxiv.org/content/early/2018/09/29/431155">Preprint</a>] [<a href="https://osf.io/ea99d/">Data and Pre-reg</a>]</span>
 
+
 <span style="color: #000000;"><strong>Weisberg, S.M.</strong>, Marchette, S.A., & Chatterjee, A. (2018). Behavioral and neural representations of spatial directions across words, schemas, and images. <em>Journal of Neuroscience,</em> 38(21), 4996-5007 [<a href="https://www.biorxiv.org/content/early/2017/11/16/220137">Paper</a>]</span>
+
 
 <span style="color: #000000;"><strong>Weisberg, S.M.</strong>, & Newcombe, N.S. (2018). Cognitive maps: Some people make them, some people struggle. <em>Current Directions in Psychological Science</em>. [<a href="http://journals.sagepub.com/doi/full/10.1177/0963721417744521">Paper</a>] [<a href="https://osf.io/ekdpa/">Preprint</a>]</span>
 
+
 <span style="color: #000000;"><strong>Weisberg, S.M.</strong>, Badgio, D., & Chatterjee, A. (in press). Feel the way with a vibrotactile compass: Does a navigational aid aid navigation? <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, <em>44</em>(5), 667-679<em>. </em>[<a href="https://doi.org/10.1101/122994">Paper</a>] [<a href="https://osf.io/q4krj/">Data</a>]</span>
+
 
 <span style="color: #000000;">Nazareth, A., <strong>Weisberg, S.M.</strong>, Margulis, K., & Newcombe, N.S. (2018). Charting the development of cognitive mapping. <em>Journal of Experimental Child Psychology</em>, <em>170</em>, 86-106. [<a href="https://www.sciencedirect.com/science/article/pii/S0022096517305052">Paper</a>] [<a title="Nazareth et al_2018_JECP_inpress" href="https://smweis.files.wordpress.com/2018/06/nazareth-et-al_2018_jecp_inpress.pdf">Preprint</a>]</span>
 
