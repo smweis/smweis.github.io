@@ -10,7 +10,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 Nazareth, A., Newcombe, N.S., Shipley T.F., Velazquez, M., & __Weisberg, S.M.__. (submitted). Beyond small-scale spatial skills: Navigation skills and geoscience education. _PsyArXiv_. [Preprint](https://psyarxiv.com/6snyk/)
 
 ## Peer Reviewed Publications
-__Weisberg, S.M.__, Newcombe, N.S., & Chatterjee, A. (submitted). Everyday taxi drivers: Do better navigators have larger hippocampi. _Cortex_. [Preprint](https://www.biorxiv.org/content/early/2018/09/29/431155) [Data and Pre-reg](https://osf.io/ea99d/)
+__Weisberg, S.M.__, Newcombe, N.S., & Chatterjee, A. (accepted). Everyday taxi drivers: Do better navigators have larger hippocampi. _Cortex_. [Preprint](https://www.biorxiv.org/content/early/2018/09/29/431155) [Data and Pre-reg](https://osf.io/ea99d/)
+
 
 __Weisberg, S.M.__, Marchette, S.A., & Chatterjee, A. (2018). Behavioral and neural representations of spatial directions across words, schemas, and images. _Journal of Neuroscience_, 38(21), 4996-5007. [PDF](http://smweis.github.io/files/JNeuro_Weisberg_2018.pdf) [Behavioral Data and Code](https://osf.io/djwfa/) [Journal](http://www.jneurosci.org/content/early/2018/05/02/JNEUROSCI.3250-17.2018)
 
@@ -19,7 +20,6 @@ __Weisberg, S.M.__, & Newcombe, N.S. (2018). Cognitive maps: Some people make th
 
 
 __Weisberg, S.M.__, Badgio, D., & Chatterjee, A. (2018). Feel the way with a vibrotactile compass: Does a navigational aid aid navigation? _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 44(5), 667-679).   [PDF](http://smweis.github.io/files/JEP_Weisberg_2018.pdf)  [Data and Code](https://osf.io/q4krj/)  [Journal](https://doi.org/10.1101/122994)  
-
 
 Nazareth, A., __Weisberg, S.M.__, Margulis, K., & Newcombe, N.S. (2018). Charting the development of cognitive mapping. _Journal of Experimental Child Psychology_, 170, 86-106. [Journal](https://www.sciencedirect.com/science/article/pii/S0022096517305052)  [PDF](http://smweis.github.io/files/JECP_Weisberg_2018.pdf)
 
