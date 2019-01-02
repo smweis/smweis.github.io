@@ -7,11 +7,11 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=HxSZ5_MAAAAJ&hl=en)
 
 ## Preprints
-__Weisberg, S.M.__, Newcombe, N.S., & Chatterjee, A. (submitted). Everyday taxi drivers: Do better navigators have larger hippocampi. _bioRxiv_. [Preprint](https://www.biorxiv.org/content/early/2018/09/29/431155) [Data and Pre-reg](https://osf.io/ea99d/)
-
 Nazareth, A., Newcombe, N.S., Shipley T.F., Velazquez, M., & __Weisberg, S.M.__. (submitted). Beyond small-scale spatial skills: Navigation skills and geoscience education. _PsyArXiv_. [Preprint](https://psyarxiv.com/6snyk/)
 
 ## Peer Reviewed Publications
+__Weisberg, S.M.__, Newcombe, N.S., & Chatterjee, A. (submitted). Everyday taxi drivers: Do better navigators have larger hippocampi. _Cortex_. [Preprint](https://www.biorxiv.org/content/early/2018/09/29/431155) [Data and Pre-reg](https://osf.io/ea99d/)
+
 __Weisberg, S.M.__, Marchette, S.A., & Chatterjee, A. (2018). Behavioral and neural representations of spatial directions across words, schemas, and images. _Journal of Neuroscience_, 38(21), 4996-5007. [PDF](http://smweis.github.io/files/JNeuro_Weisberg_2018.pdf) [Behavioral Data and Code](https://osf.io/djwfa/) [Journal](http://www.jneurosci.org/content/early/2018/05/02/JNEUROSCI.3250-17.2018)
 
 
