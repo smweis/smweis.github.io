@@ -12,4 +12,6 @@ Steven Weisberg graduated from the College of William and Mary in 2008 with a Ba
 
 Starting in January 2015, Steven has worked as a postdoc with [Anjan Chatterjee](http://ccn.upenn.edu/chatterjee/) and [Russell Epstein](https://www.sas.upenn.edu/psych/epsteinlab/) at the University of Pennsylvania’s Center for Cognitive Neuroscience. His research at Penn explores how navigation related information is communicated through various formats: arrows, words, visual scenes, and compasses.
 
+Beginning the August 2019, Steven began an assistant professor position in the psychology department at the University of Florida. Stay tuned for details of the lab, but if you are interested in joining, please get in touch via email at stevenweisberg [at] ufl [dot] edu. 
+
 Outside of research life, Steven can be found playing or watching one of any number of sports (depending on the season, but mostly ultimate frisbee), playing the guitar, cooking, solving puzzles, playing word games, or reading. Growing up in the Philadelphia area, Steven has a love of all things Philly, but a healthy appetite for travel and new adventures, always looking for the next exciting challenge.
