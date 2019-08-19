@@ -10,7 +10,7 @@ Check out a [sample](http://spactial.ci.northwestern.edu/study/753798630).
 To use this in your lab, see the documentation, links to the standalone files, and other information, go to [this OSF repository](https://osf.io/6dhfz/)
 
 
-Or, send me an email (smweis [at] gmail [dot] com) or a tweet [@3chordwonder](https://twitter.com/3chordwonder)
+Or, send me an email (stevenweisberg [at] ufl [dot] edu) or a tweet [@stevenmweisberg](https://twitter.com/stevenmweisberg)
 
 ## Affiliations
 [Mind core at Penn](https://mindcore.sas.upenn.edu/associates/)
