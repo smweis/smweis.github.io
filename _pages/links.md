@@ -16,3 +16,5 @@ Or, send me an email (stevenweisberg [at] ufl [dot] edu) or a tweet [@stevenmwei
 [Mind core at Penn](https://mindcore.sas.upenn.edu/associates/)
 
 [Research in Spatial Cognition](http://www.temple.edu/psychology/risc/index.htm)
+
+[SCANN Lab website at UF](https://psych.ufl.edu/scann-lab)
