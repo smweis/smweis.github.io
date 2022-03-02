@@ -10,4 +10,4 @@ redirect_from:
 
 This site is no longer currently being maintained. 
 
-For the latest details on my work, see [https://scannlab.psych.ufl.edu/](here).
+For the latest details on my work, see [https://scannlab.psych.ufl.edu/](https://scannlab.psych.ufl.edu/).
