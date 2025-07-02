@@ -2,12 +2,3 @@
 main:
   - title: "CV"
     url: /cv/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Links"
-    url: /links/
-
-  - title: "Blog Posts"
-    url: /blog-posts/
